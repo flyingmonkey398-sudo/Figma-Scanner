@@ -1,0 +1,7 @@
+{
+  "name": "YY Figma Assistant — Scan",
+  "id": "yyfa-scan",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "main-scan.js"
+}
